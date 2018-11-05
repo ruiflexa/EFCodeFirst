@@ -1,0 +1,1 @@
+﻿{"ContextClassName":"BancoAntigoContext","DefaultDacpacSchema":null,"IdReplace":false,"IncludeConnectionString":true,"OutputPath":"","ProjectRootNamespace":"SE.EFCodeFirst.Infra.Data","SelectedToBeGenerated":0,"Tables":["dbo.TB_Endereco","dbo.TB_Pessoa"],"UseDatabaseNames":false,"UseFluentApiOnly":false,"UseHandleBars":false,"UseInflector":true}
