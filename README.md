@@ -1,4 +1,4 @@
-# {Name}
+# EFCodeFirst
 
 <!-- Replace this badge with your own-->
 [![Build status](https://ci.appveyor.com/api/projects/status/hv6uyc059rqbc6fj?svg=true)](https://ci.appveyor.com/project/madskristensen/extensibilitytools)
@@ -9,24 +9,14 @@ or get the [CI build](http://vsixgallery.com/extension/{ID}/).
 
 ---------------------------------------
 
-{Description}
+Projeto utilizando EF Core Power Tools para gerar as classes de mapeamento (situações que trabalharemos com Code First, porém o banco de dados já existe)
 
 See the [change log](CHANGELOG.md) for changes and road map.
 
 ## Features
 
-- Feature 1
-- Feature 2
-  - Sub feature
-
-### Feature 1
-Describe feature 1. Add screenshots/code samples etc.
-
-### Feature 2
-Describe feature 2. Add screenshots/code samples etc.
-
-#### Sub feature
-Describe sub feature. Add screenshots/code samples etc.
+- Base de dados em modelo antigo
+- Exemplo de classes mapeadas para estrutra de trabalho via Code First
 
 ## Contribute
 Check out the [contribution guidelines](CONTRIBUTING.md)
